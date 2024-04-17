@@ -41,7 +41,3 @@ The excel sheet should contain the following columns so the program can run prop
 - is job add task: is designation additional task
 - is job supervisory: is designation supervisory
 - has add task: dose the employee have active additional task
-
-# Credits
-
-Information and Data Section, Human Resources Department
